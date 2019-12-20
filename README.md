@@ -1,6 +1,6 @@
 # Metro Nashville Crime Incident Analysis
 ---
-Power BI dashboard
+[Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGQ1YjE1ZmItNzIxMi00ZDgzLWI3N2QtM2EwOTE3YWU0NWJmIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
 ---
 
